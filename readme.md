@@ -64,4 +64,12 @@
 
 # 12. <!-- Adding Two Numbers -->
 - Javascript has a datatypes named as 'Number'
+# 13. <!-- Mathematical Operators -->
+- JS has mathematical operators like (+,-,*,/)
+
+# 14. <!-- Increment Operator -->
+- JS has increment operator (++)
+
+# 15. <!-- Decrement Operator  -->
+- JS has decrement operator (--)
 
