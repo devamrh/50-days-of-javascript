@@ -73,3 +73,40 @@
 # 15. <!-- Decrement Operator  -->
 - JS has decrement operator (--)
 
+# 16. <!-- Remainder Operator -->
+- The remainder operator checks if a number is divisable by 2 .The result maybe odd or even.
+
+# 17. <!-- Compound Assignment -->
+- compound assignment example 
+  - myVar+=5
+  - myVar-=5
+  - myVar/=5
+  - myVar*=5
+
+# 18. <!-- Escape Literals (\) -->
+- Escape literals are (\) which helps to quote strings
+  - example: "He said, \"I learned from freeCodeCamp!\"
+
+# 19. <!-- Quoting with single literrals -->
+
+- you can also use the single literal ('') and wrap them with double string.
+- the common use of this is when <a> tag is used.
+- the backslash(\) isn't needed that time.
+
+# 20. <!-- Escape Sequence in string-->
+
+- \'	single quote
+- \"	double quote
+- \\	backslash
+- \n	newline
+- \t	tab
+- \r	carriage return
+- \b	backspace
+- \f	form feed
+
+# 21.<!-- String concatenation -->
+- String concatenation can be done using (+) sign between strings.
+- you can also concat string variables.
+- different type of varibale declaration can also be concatenated.(let,const,var)
+- (.length) method is to find the length of string.
+- ()
